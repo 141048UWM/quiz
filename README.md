@@ -25,3 +25,7 @@ GRANT ALL PRIVILEGES ON * . * TO 'quiz'@'localhost';
 ### Test
 
 `python3 manage.py test`
+
+#Model bazy danych
+
+![diagram_bazy](https://user-images.githubusercontent.com/93037037/146347022-6189f612-1888-456c-a267-5af9d3ff4284.png)
